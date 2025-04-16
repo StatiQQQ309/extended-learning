@@ -1,0 +1,13 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+mplsoccer
+torch
+stable-baselines3
+gym
+opencv-python
+notebook
+streamlit
+pytorch-lightning
